@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	useFullscreenExpand="false"
+	useThumbDots="false"
+	galleryWidth="75%"
+	galleryHeight="75%"
+
+>
+  <image imageURL="images/astroncorporation_1200x300.jpg"
+	thumbURL="thumbs/astroncorporation_1200x300.jpg"
+	linkURL="images/astroncorporation_1200x300.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\xampp\htdocs\astronbd\images\astroncorporation_1200x300.jpg">
+    <title><![CDATA[astroncorporation_1200x300]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/pic01.jpg"
+	thumbURL="thumbs/pic01.jpg"
+	linkURL="images/pic01.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\xampp\htdocs\astronbd\images\pic01.jpg">
+    <title><![CDATA[pic01]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/pic02.jpg"
+	thumbURL="thumbs/pic02.jpg"
+	linkURL="images/pic02.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\xampp\htdocs\astronbd\images\pic02.jpg">
+    <title><![CDATA[pic02]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/2.jpg"
+	thumbURL="thumbs/2.jpg"
+	linkURL="images/2.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\xampp\htdocs\astronbd\images\2.jpg">
+    <title><![CDATA[2]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/4.jpg"
+	thumbURL="thumbs/4.jpg"
+	linkURL="images/4.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\xampp\htdocs\astronbd\images\4.jpg">
+    <title><![CDATA[4]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/4sunanilabs.jpg"
+	thumbURL="thumbs/4sunanilabs.jpg"
+	linkURL="images/4sunanilabs.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\xampp\htdocs\astronbd\images\4sunanilabs.jpg">
+    <title><![CDATA[4sunanilabs]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>
